@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/COTOSOAIR/CotosioAir/_apis/build/status/LidiaHReyes.ContosoAir?branchName=master)](https://dev.azure.com/COTOSOAIR/CotosioAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
